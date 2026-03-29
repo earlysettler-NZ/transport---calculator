@@ -1,0 +1,4274 @@
+{
+  "diamondRates": [
+    {
+      "area": "Local",
+      "rate1": 110,
+      "additional": 25
+    },
+    {
+      "area": "Zone 1",
+      "rate1": 130,
+      "additional": 25
+    }
+  ],
+  "addons": [
+    {
+      "name": "Rubbish Removal",
+      "rate": 30
+    },
+    {
+      "name": "Assembly",
+      "rate": 35
+    },
+    {
+      "name": "Access Limitations",
+      "rate": 30
+    },
+    {
+      "name": "Additional time (15mins)",
+      "rate": 30
+    }
+  ],
+  "suburbs": [
+    {
+      "suburb": "Glenbrook",
+      "postcode": "2681",
+      "zone": "Zone C",
+      "deliveryDay": "",
+      "carrier": "Goddards",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Waikato District, Waikato",
+      "baseRate": 135
+    },
+    {
+      "suburb": "Pokeno",
+      "postcode": "2440",
+      "zone": "Zone C",
+      "deliveryDay": "",
+      "carrier": "Goddards",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Waikato District, Waikato",
+      "baseRate": 135
+    },
+    {
+      "suburb": "Pokeno",
+      "postcode": "2472",
+      "zone": "Zone C",
+      "deliveryDay": "",
+      "carrier": "Goddards",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Waikato District, Waikato",
+      "baseRate": 135
+    },
+    {
+      "suburb": "Pukekohe East",
+      "postcode": "2677",
+      "zone": "Zone C",
+      "deliveryDay": "",
+      "carrier": "Goddards",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Waikato District, Waikato",
+      "baseRate": 135
+    },
+    {
+      "suburb": "Tuakau",
+      "postcode": "2121",
+      "zone": "Zone C",
+      "deliveryDay": "",
+      "carrier": "Goddards",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Waikato District, Waikato",
+      "baseRate": 135
+    },
+    {
+      "suburb": "Tuakau",
+      "postcode": "2342",
+      "zone": "Zone C",
+      "deliveryDay": "",
+      "carrier": "Goddards",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Waikato District, Waikato",
+      "baseRate": 135
+    },
+    {
+      "suburb": "Tuakau",
+      "postcode": "2694",
+      "zone": "Zone C",
+      "deliveryDay": "",
+      "carrier": "Goddards",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Waikato District, Waikato",
+      "baseRate": 135
+    },
+    {
+      "suburb": "Acacia Bay",
+      "postcode": "3330",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Taupo, Waikato",
+      "baseRate": "Quote"
+    },
+    {
+      "suburb": "Karangahake",
+      "postcode": "3600",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Hauraki, Waikato",
+      "baseRate": "Quote"
+    },
+    {
+      "suburb": "Lichfield",
+      "postcode": "3411",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "South Waikato, Waikato",
+      "baseRate": "Quote"
+    },
+    {
+      "suburb": "North Putaruru",
+      "postcode": "3410",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "South Waikato, Waikato",
+      "baseRate": "Quote"
+    },
+    {
+      "suburb": "Nukuhau",
+      "postcode": "3330",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Taupo, Waikato",
+      "baseRate": "Quote"
+    },
+    {
+      "suburb": "Okoroire",
+      "postcode": "3410",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "South Waikato, Waikato",
+      "baseRate": "Quote"
+    },
+    {
+      "suburb": "Otorohanga",
+      "postcode": "3900",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Otorohanga District, Waikato",
+      "baseRate": "Quote"
+    },
+    {
+      "suburb": "Otorohanga",
+      "postcode": "3940",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Otorohanga District, Waikato",
+      "baseRate": "Quote"
+    },
+    {
+      "suburb": "Paeroa",
+      "postcode": "3600",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Hauraki District, Waikato",
+      "baseRate": "Quote"
+    },
+    {
+      "suburb": "Paeroa",
+      "postcode": "3640",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Hauraki District, Waikato",
+      "baseRate": "Quote"
+    },
+    {
+      "suburb": "Piarere",
+      "postcode": "3410",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "South Waikato, Waikato",
+      "baseRate": "Quote"
+    },
+    {
+      "suburb": "Putaruru",
+      "postcode": "3411",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "South Waikato District, Waikato",
+      "baseRate": "Quote"
+    },
+    {
+      "suburb": "Putaruru",
+      "postcode": "3443",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "South Waikato District, Waikato",
+      "baseRate": "Quote"
+    },
+    {
+      "suburb": "Putaruru",
+      "postcode": "3483",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "South Waikato District, Waikato",
+      "baseRate": "Quote"
+    },
+    {
+      "suburb": "Tairua",
+      "postcode": "3508",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Thames-Coromandel District, Waikato",
+      "baseRate": "Quote"
+    },
+    {
+      "suburb": "Tairua",
+      "postcode": "3544",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Thames-Coromandel District, Waikato",
+      "baseRate": "Quote"
+    },
+    {
+      "suburb": "Taupo",
+      "postcode": "3330",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Taupo, Waikato",
+      "baseRate": "Quote"
+    },
+    {
+      "suburb": "Taupo",
+      "postcode": "3351",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Taupo District, Waikato",
+      "baseRate": "Quote"
+    },
+    {
+      "suburb": "Taupo",
+      "postcode": "3352",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Taupo District, Waikato",
+      "baseRate": "Quote"
+    },
+    {
+      "suburb": "Te Kuiti",
+      "postcode": "3986",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Otorohanga District, Waikato",
+      "baseRate": "Quote"
+    },
+    {
+      "suburb": "Thames",
+      "postcode": "3500",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Thames-Coromandel District, Waikato",
+      "baseRate": "Quote"
+    },
+    {
+      "suburb": "Thames",
+      "postcode": "3540",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Thames-Coromandel District, Waikato",
+      "baseRate": "Quote"
+    },
+    {
+      "suburb": "Tirau",
+      "postcode": "3410",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "South Waikato District, Waikato",
+      "baseRate": "Quote"
+    },
+    {
+      "suburb": "Tirau",
+      "postcode": "3442",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "South Waikato District, Waikato",
+      "baseRate": "Quote"
+    },
+    {
+      "suburb": "Tokoroa",
+      "postcode": "3420",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "South Waikato District, Waikato",
+      "baseRate": "Quote"
+    },
+    {
+      "suburb": "Tokoroa",
+      "postcode": "3444",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "South Waikato District, Waikato",
+      "baseRate": "Quote"
+    },
+    {
+      "suburb": "Wharewaka",
+      "postcode": "3330",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Taupo District, Waikato",
+      "baseRate": "Quote"
+    },
+    {
+      "suburb": "Whitianga",
+      "postcode": "3510",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Thames-Coromandel District, Waikato",
+      "baseRate": "Quote"
+    },
+    {
+      "suburb": "Whitianga",
+      "postcode": "3542",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Thames-Coromandel District, Waikato",
+      "baseRate": "Quote"
+    },
+    {
+      "suburb": "Ahimia",
+      "postcode": "3581",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Thames-Coromandel District, Waikato",
+      "baseRate": "Request a Quote"
+    },
+    {
+      "suburb": "Arapae",
+      "postcode": "3981",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Waitomo District, Waikato",
+      "baseRate": "Request a Quote"
+    },
+    {
+      "suburb": "Arapuni",
+      "postcode": "3415",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "South Waikato District, Waikato",
+      "baseRate": "Request a Quote"
+    },
+    {
+      "suburb": "Atiamuri",
+      "postcode": "3078",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "South Waikato District, Waikato",
+      "baseRate": "Request a Quote"
+    },
+    {
+      "suburb": "Awakino",
+      "postcode": "4376",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Waitomo District, Waikato",
+      "baseRate": "Request a Quote"
+    },
+    {
+      "suburb": "Benneydale",
+      "postcode": "3944",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Waitomo District, Waikato",
+      "baseRate": "Request a Quote"
+    },
+    {
+      "suburb": "Benneydale",
+      "postcode": "3987",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Waitomo District, Waikato",
+      "baseRate": "Request a Quote"
+    },
+    {
+      "suburb": "Bruntwood",
+      "postcode": "3493",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Waikato District, Waikato",
+      "baseRate": "Request a Quote"
+    },
+    {
+      "suburb": "Colville",
+      "postcode": "3547",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Thames-Coromandel District, Waikato",
+      "baseRate": "Request a Quote"
+    },
+    {
+      "suburb": "Coroglen",
+      "postcode": "3591",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Thames-Coromandel District, Waikato",
+      "baseRate": "Request a Quote"
+    },
+    {
+      "suburb": "Coroglen",
+      "postcode": "3592",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Thames-Coromandel District, Waikato",
+      "baseRate": "Request a Quote"
+    },
+    {
+      "suburb": "Coromandel",
+      "postcode": "3506",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Thames-Coromandel, Waikato",
+      "baseRate": "Request a Quote"
+    },
+    {
+      "suburb": "Coromandel",
+      "postcode": "3543",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Thames-Coromandel District, Waikato",
+      "baseRate": "Request a Quote"
+    },
+    {
+      "suburb": "Hangatiki",
+      "postcode": "3976",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Otorohanga District, Waikato",
+      "baseRate": "Request a Quote"
+    },
+    {
+      "suburb": "Hangatiki",
+      "postcode": "3943",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Waitomo District, Waikato",
+      "baseRate": "Request a Quote"
+    },
+    {
+      "suburb": "Hangatiki",
+      "postcode": "3977",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Waitomo District, Waikato",
+      "baseRate": "Request a Quote"
+    },
+    {
+      "suburb": "Hautapu",
+      "postcode": "3451",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Waipa District, Waikato",
+      "baseRate": "Request a Quote"
+    },
+    {
+      "suburb": "Hauturu",
+      "postcode": "3878",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Otorohanga District, Waikato",
+      "baseRate": "Request a Quote"
+    },
+    {
+      "suburb": "Hikuai",
+      "postcode": "3579",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Thames-Coromandel District, Waikato",
+      "baseRate": "Request a Quote"
+    },
+    {
+      "suburb": "Honikiwi",
+      "postcode": "3973",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Otorohanga District, Waikato",
+      "baseRate": "Request a Quote"
+    },
+    {
+      "suburb": "Horotiu",
+      "postcode": "3262",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Waikato District, Waikato",
+      "baseRate": "Request a Quote"
+    },
+    {
+      "suburb": "Kaawa",
+      "postcode": "2695",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Waikato District, Waikato",
+      "baseRate": "Request a Quote"
+    },
+    {
+      "suburb": "Kaiaua",
+      "postcode": "2473",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Waikato District, Waikato",
+      "baseRate": "Request a Quote"
+    },
+    {
+      "suburb": "Kaimai",
+      "postcode": "3473",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Matamata-Piako District, Waikato",
+      "baseRate": "Request a Quote"
+    },
+    {
+      "suburb": "Kawhia",
+      "postcode": "3843",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Otorohanga District, Waikato",
+      "baseRate": "Request a Quote"
+    },
+    {
+      "suburb": "Kawhia",
+      "postcode": "3889",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Otorohanga District, Waikato",
+      "baseRate": "Request a Quote"
+    },
+    {
+      "suburb": "Kennedys Bay",
+      "postcode": "3583",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Thames-Coromandel District, Waikato",
+      "baseRate": "Request a Quote"
+    },
+    {
+      "suburb": "Kinleith",
+      "postcode": "3491",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "South Waikato District, Waikato",
+      "baseRate": "Request a Quote"
+    },
+    {
+      "suburb": "Komakorau",
+      "postcode": "3791",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Waikato District, Waikato",
+      "baseRate": "Request a Quote"
+    },
+    {
+      "suburb": "Komata",
+      "postcode": "3674",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Hauraki District, Waikato",
+      "baseRate": "Request a Quote"
+    },
+    {
+      "suburb": "Kopaki",
+      "postcode": "3983",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Waitomo District, Waikato",
+      "baseRate": "Request a Quote"
+    },
+    {
+      "suburb": "Kopuku",
+      "postcode": "2471",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Pokeno, Waikato",
+      "baseRate": "Request a Quote"
+    },
+    {
+      "suburb": "Kuratau",
+      "postcode": "3381",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Taupo District, Waikato",
+      "baseRate": "Request a Quote"
+    },
+    {
+      "suburb": "Leamington",
+      "postcode": "3432",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Waipa District, Waikato",
+      "baseRate": "Request a Quote"
+    },
+    {
+      "suburb": "Leamington",
+      "postcode": "3434",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Waipa District, Waikato",
+      "baseRate": "Request a Quote"
+    },
+    {
+      "suburb": "Leamington",
+      "postcode": "3450",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Waipa District, Waikato",
+      "baseRate": "Request a Quote"
+    },
+    {
+      "suburb": "Leamington",
+      "postcode": "3495",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Waipa District, Waikato",
+      "baseRate": "Request a Quote"
+    },
+    {
+      "suburb": "Mahoenui",
+      "postcode": "3945",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Waitomo District, Waikato",
+      "baseRate": "Request a Quote"
+    },
+    {
+      "suburb": "Mahoenui",
+      "postcode": "3978",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Waitomo District, Waikato",
+      "baseRate": "Request a Quote"
+    },
+    {
+      "suburb": "Maihiihi",
+      "postcode": "3972",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Otorohanga District, Waikato",
+      "baseRate": "Request a Quote"
+    },
+    {
+      "suburb": "Maihiihi",
+      "postcode": "3975",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Otorohanga District, Waikato",
+      "baseRate": "Request a Quote"
+    },
+    {
+      "suburb": "Manawaru",
+      "postcode": "3391",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Matamata-Piako District, Waikato",
+      "baseRate": "Request a Quote"
+    },
+    {
+      "suburb": "Mangaiti",
+      "postcode": "3392",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Matamata-Piako District, Waikato",
+      "baseRate": "Request a Quote"
+    },
+    {
+      "suburb": "Mangaiti",
+      "postcode": "3393",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Matamata-Piako District, Waikato",
+      "baseRate": "Request a Quote"
+    },
+    {
+      "suburb": "Mangakino",
+      "postcode": "3492",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Otorohanga District, Waikato",
+      "baseRate": "Request a Quote"
+    },
+    {
+      "suburb": "Mangakino",
+      "postcode": "3421",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Taupo District, Waikato",
+      "baseRate": "Request a Quote"
+    },
+    {
+      "suburb": "Mangakino",
+      "postcode": "3445",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Taupo District, Waikato",
+      "baseRate": "Request a Quote"
+    },
+    {
+      "suburb": "Matapara",
+      "postcode": "3874",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Otorohanga District, Waikato",
+      "baseRate": "Request a Quote"
+    },
+    {
+      "suburb": "Matapara",
+      "postcode": "3877",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Waipa District, Waikato",
+      "baseRate": "Request a Quote"
+    },
+    {
+      "suburb": "Mercer",
+      "postcode": "2474",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Waikato District, Waikato",
+      "baseRate": "Request a Quote"
+    },
+    {
+      "suburb": "Meremere",
+      "postcode": "2441",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Waikato District, Waikato",
+      "baseRate": "Request a Quote"
+    },
+    {
+      "suburb": "Moerangi",
+      "postcode": "3895",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Waikato District, Waikato",
+      "baseRate": "Request a Quote"
+    },
+    {
+      "suburb": "Mokau",
+      "postcode": "4350",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Waitomo District, Waikato",
+      "baseRate": "Request a Quote"
+    },
+    {
+      "suburb": "Motumaoho",
+      "postcode": "3372",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Matamata-Piako District, Waikato",
+      "baseRate": "Request a Quote"
+    },
+    {
+      "suburb": "Netherton",
+      "postcode": "3671",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Hauraki District, Waikato",
+      "baseRate": "Request a Quote"
+    },
+    {
+      "suburb": "Netherton",
+      "postcode": "3672",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Hauraki District, Waikato",
+      "baseRate": "Request a Quote"
+    },
+    {
+      "suburb": "Nevesville",
+      "postcode": "3578",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Thames-Coromandel District, Waikato",
+      "baseRate": "Request a Quote"
+    },
+    {
+      "suburb": "Ngatea",
+      "postcode": "3503",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Hauraki District, Waikato",
+      "baseRate": "Request a Quote"
+    },
+    {
+      "suburb": "Ngatea",
+      "postcode": "3541",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Hauraki District, Waikato",
+      "baseRate": "Request a Quote"
+    },
+    {
+      "suburb": "Ngatea",
+      "postcode": "3597",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Hauraki District, Waikato",
+      "baseRate": "Request a Quote"
+    },
+    {
+      "suburb": "Ngatira",
+      "postcode": "3482",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "South Waikato District, Waikato",
+      "baseRate": "Request a Quote"
+    },
+    {
+      "suburb": "Okauia",
+      "postcode": "3471",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Matamata-Piako District, Waikato",
+      "baseRate": "Request a Quote"
+    },
+    {
+      "suburb": "Okoroire",
+      "postcode": "3485",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Matamata-Piako District, Waikato",
+      "baseRate": "Request a Quote"
+    },
+    {
+      "suburb": "Oparau",
+      "postcode": "3885",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Otorohanga District, Waikato",
+      "baseRate": "Request a Quote"
+    },
+    {
+      "suburb": "Opuatia",
+      "postcode": "2696",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Waikato District, Waikato",
+      "baseRate": "Request a Quote"
+    },
+    {
+      "suburb": "Orini",
+      "postcode": "3792",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Waikato District, Waikato",
+      "baseRate": "Request a Quote"
+    },
+    {
+      "suburb": "Oruanui",
+      "postcode": "3377",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Taupo District, Waikato",
+      "baseRate": "Request a Quote"
+    },
+    {
+      "suburb": "Owhiro",
+      "postcode": "3886",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Otorohanga District, Waikato",
+      "baseRate": "Request a Quote"
+    },
+    {
+      "suburb": "Owhiro",
+      "postcode": "3988",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Waitomo District, Waikato",
+      "baseRate": "Request a Quote"
+    },
+    {
+      "suburb": "Parawai",
+      "postcode": "3577",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Thames-Coromandel District, Waikato",
+      "baseRate": "Request a Quote"
+    },
+    {
+      "suburb": "Pauanui",
+      "postcode": "3546",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Thames-Coromandel District, Waikato",
+      "baseRate": "Request a Quote"
+    },
+    {
+      "suburb": "Pepepe",
+      "postcode": "3794",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Waikato District, Waikato",
+      "baseRate": "Request a Quote"
+    },
+    {
+      "suburb": "Preece Point",
+      "postcode": "3506",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Thames-Coromandel, Waikato",
+      "baseRate": "Request a Quote"
+    },
+    {
+      "suburb": "Pukekapia",
+      "postcode": "3771",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Waikato District, Waikato",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Puketutu",
+      "postcode": "3982",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Waitomo District, Waikato",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Reporoa",
+      "postcode": "3060",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Rotorua District, Waikato",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Ruapuke",
+      "postcode": "3296",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Waikato District, Waikato",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Ruawaro",
+      "postcode": "3772",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Waikato District, Waikato",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Tahorakui",
+      "postcode": "3083",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Rotorua District, Waikato",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Tahorakui",
+      "postcode": "3081",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Taupo District, Waikato",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Tamihana",
+      "postcode": "3401",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Matamata-Piako, Waikato",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Tapu",
+      "postcode": "3575",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Thames-Coromandel District, Waikato",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Tarawera",
+      "postcode": "3360",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Taupo District, Waikato",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Tarukenga",
+      "postcode": "3072",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "South Waikato District, Waikato",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Te Aroha",
+      "postcode": "3320",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Matamata-Piako District, Waikato",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Te Aroha",
+      "postcode": "3342",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Matamata-Piako District, Waikato",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Te Aroha",
+      "postcode": "3343",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Matamata-Piako District, Waikato",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Te Kawa",
+      "postcode": "3974",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Otorohanga District, Waikato",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Te Kawa",
+      "postcode": "3873",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Waipa District, Waikato",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Te Kohanga",
+      "postcode": "2693",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Waikato District, Waikato",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Te Kohanga",
+      "postcode": "2697",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Waikato District, Waikato",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Te Mawhai",
+      "postcode": "3875",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Waipa District, Waikato",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Te Papatapu",
+      "postcode": "3894",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Waikato District, Waikato",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Te Puninga",
+      "postcode": "3374",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Matamata-Piako District, Waikato",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Te Rerenga",
+      "postcode": "3506",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Thames-Coromandel, Waikato",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Te Rerenga",
+      "postcode": "3582",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Thames-Coromandel District, Waikato",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Te Uku",
+      "postcode": "3266",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Waikato District, Waikato",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Te Uku",
+      "postcode": "3295",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Waikato District, Waikato",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Te Waotu",
+      "postcode": "3481",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "South Waikato District, Waikato",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Tirohia",
+      "postcode": "3673",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Matamata-Piako District, Waikato",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Tokaanu",
+      "postcode": "3334",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Taupo, Waikato",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Turangi",
+      "postcode": "3334",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Taupo District, Waikato",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Turangi",
+      "postcode": "3353",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Taupo District, Waikato",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Turangi",
+      "postcode": "3382",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Taupo District, Waikato",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Turua",
+      "postcode": "3503",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Hauraki, Waikato",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Turua",
+      "postcode": "3545",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Hauraki District, Waikato",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Turua",
+      "postcode": "3574",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Hauraki District, Waikato",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Waerenga",
+      "postcode": "3781",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Waikato District, Waikato",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Waharoa",
+      "postcode": "3401",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Matamata-Piako District, Waikato",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Waharoa",
+      "postcode": "3441",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Matamata-Piako District, Waikato",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Waharoa",
+      "postcode": "3474",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Matamata-Piako District, Waikato",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Waimangu",
+      "postcode": "3073",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Rotorua District, Waikato",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Waingaro",
+      "postcode": "3793",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Waikato District, Waikato",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Waipahihi",
+      "postcode": "3378",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Taupo District, Waikato",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Wairakei",
+      "postcode": "3332",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Taupo District, Waikato",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Wairere Falls",
+      "postcode": "3970",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Waitomo District, Waikato",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Waitakaruru",
+      "postcode": "3576",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Hauraki District, Waikato",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Waitanguru",
+      "postcode": "3971",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Waitomo District, Waikato",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Waitanguru",
+      "postcode": "3985",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Waitomo District, Waikato",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Waiterimu",
+      "postcode": "3784",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Matamata-Piako District, Waikato",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Waitetuna",
+      "postcode": "3293",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Waikato District, Waikato",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Waitoa",
+      "postcode": "3310",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Matamata-Piako District, Waikato",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Waitoa",
+      "postcode": "3341",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Matamata-Piako District, Waikato",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Waitoa",
+      "postcode": "3380",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Matamata-Piako District, Waikato",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Walton",
+      "postcode": "3475",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Matamata-Piako District, Waikato",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Whangamarino",
+      "postcode": "3782",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Waikato District, Waikato",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Whangamata",
+      "postcode": "3691",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Hauraki District, Waikato",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Whangamata",
+      "postcode": "3620",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Thames-Coromandel District, Waikato",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Whangamata",
+      "postcode": "3643",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Thames-Coromandel District, Waikato",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Whangapoua",
+      "postcode": "3506",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Thames-Coromandel District, Waikato",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Wharepuhunga",
+      "postcode": "3872",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "Mainfreight",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Waipa District, Waikato",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Bellevue",
+      "postcode": "3110",
+      "zone": "Local",
+      "deliveryDay": "Daily",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Tauranga, Bay of Plenty",
+      "baseRate": 110
+    },
+    {
+      "suburb": "Bethlehem",
+      "postcode": "3110",
+      "zone": "Local",
+      "deliveryDay": "Daily",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Tauranga, Bay of Plenty",
+      "baseRate": 110
+    },
+    {
+      "suburb": "Bethlehem",
+      "postcode": "3147",
+      "zone": "Local",
+      "deliveryDay": "Daily",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Tauranga City, Bay of Plenty",
+      "baseRate": 110
+    },
+    {
+      "suburb": "Brookfield",
+      "postcode": "3110",
+      "zone": "Local",
+      "deliveryDay": "Daily",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Tauranga, Bay of Plenty",
+      "baseRate": 110
+    },
+    {
+      "suburb": "Gate Pa",
+      "postcode": "3112",
+      "zone": "Local",
+      "deliveryDay": "Daily",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Tauranga, Bay of Plenty",
+      "baseRate": 110
+    },
+    {
+      "suburb": "Greerton",
+      "postcode": "3112",
+      "zone": "Local",
+      "deliveryDay": "Daily",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Tauranga, Bay of Plenty",
+      "baseRate": 110
+    },
+    {
+      "suburb": "Greerton",
+      "postcode": "3142",
+      "zone": "Local",
+      "deliveryDay": "Daily",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Tauranga City, Bay of Plenty",
+      "baseRate": 110
+    },
+    {
+      "suburb": "Hairini",
+      "postcode": "3112",
+      "zone": "Local",
+      "deliveryDay": "Daily",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Tauranga City, Bay of Plenty",
+      "baseRate": 110
+    },
+    {
+      "suburb": "Hairini",
+      "postcode": "3148",
+      "zone": "Local",
+      "deliveryDay": "Daily",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Tauranga City, Bay of Plenty",
+      "baseRate": 110
+    },
+    {
+      "suburb": "Judea",
+      "postcode": "3110",
+      "zone": "Local",
+      "deliveryDay": "Daily",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Tauranga, Bay of Plenty",
+      "baseRate": 110
+    },
+    {
+      "suburb": "Judea",
+      "postcode": "3146",
+      "zone": "Local",
+      "deliveryDay": "Daily",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Tauranga City, Bay of Plenty",
+      "baseRate": 110
+    },
+    {
+      "suburb": "Kairua",
+      "postcode": "3118",
+      "zone": "Local",
+      "deliveryDay": "Daily",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Tauranga, Bay of Plenty",
+      "baseRate": 110
+    },
+    {
+      "suburb": "Kairua",
+      "postcode": "3151",
+      "zone": "Local",
+      "deliveryDay": "Daily",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Tauranga City, Bay of Plenty",
+      "baseRate": 110
+    },
+    {
+      "suburb": "Lower Kaimai",
+      "postcode": "3171",
+      "zone": "Local",
+      "deliveryDay": "Daily",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Tauranga City, Bay of Plenty",
+      "baseRate": 110
+    },
+    {
+      "suburb": "Matapihi",
+      "postcode": "3110",
+      "zone": "Local",
+      "deliveryDay": "Daily",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Tauranga, Bay of Plenty",
+      "baseRate": 110
+    },
+    {
+      "suburb": "Matua",
+      "postcode": "3110",
+      "zone": "Local",
+      "deliveryDay": "Daily",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Tauranga, Bay of Plenty",
+      "baseRate": 110
+    },
+    {
+      "suburb": "Maungatapu",
+      "postcode": "3112",
+      "zone": "Local",
+      "deliveryDay": "Daily",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Tauranga, Bay of Plenty",
+      "baseRate": 110
+    },
+    {
+      "suburb": "Motiti Island",
+      "postcode": "3110",
+      "zone": "Local",
+      "deliveryDay": "Daily",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Tauranga, Bay of Plenty",
+      "baseRate": 110
+    },
+    {
+      "suburb": "Mount Maunganui",
+      "postcode": "3150",
+      "zone": "Local",
+      "deliveryDay": "Daily",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Tauranga City, Bay of Plenty",
+      "baseRate": 110
+    },
+    {
+      "suburb": "Mt Maunganui",
+      "postcode": "3116",
+      "zone": "Local",
+      "deliveryDay": "Daily",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Tauranga, Bay of Plenty",
+      "baseRate": 110
+    },
+    {
+      "suburb": "Omanu",
+      "postcode": "3116",
+      "zone": "Local",
+      "deliveryDay": "Daily",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Tauranga City, Bay of Plenty",
+      "baseRate": 110
+    },
+    {
+      "suburb": "Omanu",
+      "postcode": "3149",
+      "zone": "Local",
+      "deliveryDay": "Daily",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Tauranga City, Bay of Plenty",
+      "baseRate": 110
+    },
+    {
+      "suburb": "Omanu Beach",
+      "postcode": "3110",
+      "zone": "Local",
+      "deliveryDay": "Daily",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Tauranga City, Bay of Plenty",
+      "baseRate": 110
+    },
+    {
+      "suburb": "Omanu Beach",
+      "postcode": "3152",
+      "zone": "Local",
+      "deliveryDay": "Daily",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Tauranga City, Bay of Plenty",
+      "baseRate": 110
+    },
+    {
+      "suburb": "Omokoroa",
+      "postcode": "3114",
+      "zone": "Local",
+      "deliveryDay": "Daily",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Western Bay of Plenty, Bay of Plenty",
+      "baseRate": 110
+    },
+    {
+      "suburb": "Omokoroa Beach",
+      "postcode": "3114",
+      "zone": "Local",
+      "deliveryDay": "Daily",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Western Bay of Plenty District, Bay of Plenty",
+      "baseRate": 110
+    },
+    {
+      "suburb": "Omokoroa Beach",
+      "postcode": "3154",
+      "zone": "Local",
+      "deliveryDay": "Daily",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Western Bay of Plenty District, Bay of Plenty",
+      "baseRate": 110
+    },
+    {
+      "suburb": "Omokoroa Beach",
+      "postcode": "3172",
+      "zone": "Local",
+      "deliveryDay": "Daily",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Western Bay of Plenty District, Bay of Plenty",
+      "baseRate": 110
+    },
+    {
+      "suburb": "Oropi",
+      "postcode": "3173",
+      "zone": "Local",
+      "deliveryDay": "Daily",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Western Bay of Plenty District, Bay of Plenty",
+      "baseRate": 110
+    },
+    {
+      "suburb": "Otumoetai",
+      "postcode": "3110",
+      "zone": "Local",
+      "deliveryDay": "Daily",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Tauranga, Bay of Plenty",
+      "baseRate": 110
+    },
+    {
+      "suburb": "Otumoetai",
+      "postcode": "3145",
+      "zone": "Local",
+      "deliveryDay": "Daily",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Tauranga City, Bay of Plenty",
+      "baseRate": 110
+    },
+    {
+      "suburb": "Paengaroa",
+      "postcode": "3189",
+      "zone": "Local",
+      "deliveryDay": "Daily",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Western Bay of Plenty District, Bay of Plenty",
+      "baseRate": 110
+    },
+    {
+      "suburb": "Papamoa",
+      "postcode": "3187",
+      "zone": "Local",
+      "deliveryDay": "Daily",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Tauranga City, Bay of Plenty",
+      "baseRate": 110
+    },
+    {
+      "suburb": "Papamoa Beach",
+      "postcode": "3118",
+      "zone": "Local",
+      "deliveryDay": "Daily",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Tauranga City, Bay of Plenty",
+      "baseRate": 110
+    },
+    {
+      "suburb": "Parkvale",
+      "postcode": "3112",
+      "zone": "Local",
+      "deliveryDay": "Daily",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Tauranga, Bay of Plenty",
+      "baseRate": 110
+    },
+    {
+      "suburb": "Poike",
+      "postcode": "3112",
+      "zone": "Local",
+      "deliveryDay": "Daily",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Tauranga, Bay of Plenty",
+      "baseRate": 110
+    },
+    {
+      "suburb": "Pyes Pa",
+      "postcode": "3112",
+      "zone": "Local",
+      "deliveryDay": "Daily",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Tauranga, Bay of Plenty",
+      "baseRate": 110
+    },
+    {
+      "suburb": "Tauranga",
+      "postcode": "3110",
+      "zone": "Local",
+      "deliveryDay": "Daily",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Tauranga, Bay of Plenty",
+      "baseRate": 110
+    },
+    {
+      "suburb": "Tauranga",
+      "postcode": "3141",
+      "zone": "Local",
+      "deliveryDay": "Daily",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Tauranga City, Bay of Plenty",
+      "baseRate": 110
+    },
+    {
+      "suburb": "Tauranga",
+      "postcode": "3143",
+      "zone": "Local",
+      "deliveryDay": "Daily",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Tauranga City, Bay of Plenty",
+      "baseRate": 110
+    },
+    {
+      "suburb": "Tauranga",
+      "postcode": "3144",
+      "zone": "Local",
+      "deliveryDay": "Daily",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Tauranga City, Bay of Plenty",
+      "baseRate": 110
+    },
+    {
+      "suburb": "Tauranga",
+      "postcode": "3140",
+      "zone": "Local",
+      "deliveryDay": "Daily",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Western Bay of Plenty District, Bay of Plenty",
+      "baseRate": 110
+    },
+    {
+      "suburb": "Tauranga South",
+      "postcode": "3112",
+      "zone": "Local",
+      "deliveryDay": "Daily",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Tauranga, Bay of Plenty",
+      "baseRate": 110
+    },
+    {
+      "suburb": "Tauriko",
+      "postcode": "3110",
+      "zone": "Local",
+      "deliveryDay": "Daily",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Tauranga, Bay of Plenty",
+      "baseRate": 110
+    },
+    {
+      "suburb": "Te Puke",
+      "postcode": "3119",
+      "zone": "Local",
+      "deliveryDay": "Daily",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Western Bay of Plenty District, Bay of Plenty",
+      "baseRate": 110
+    },
+    {
+      "suburb": "Te Puke",
+      "postcode": "3153",
+      "zone": "Local",
+      "deliveryDay": "Daily",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Western Bay of Plenty District, Bay of Plenty",
+      "baseRate": 110
+    },
+    {
+      "suburb": "Te Puke",
+      "postcode": "3182",
+      "zone": "Local",
+      "deliveryDay": "Daily",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Western Bay of Plenty District, Bay of Plenty",
+      "baseRate": 110
+    },
+    {
+      "suburb": "Upper Papamoa",
+      "postcode": "3175",
+      "zone": "Local",
+      "deliveryDay": "Daily",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Tauranga City, Bay of Plenty",
+      "baseRate": 110
+    },
+    {
+      "suburb": "Upper Papamoa",
+      "postcode": "3183",
+      "zone": "Local",
+      "deliveryDay": "Daily",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Western Bay of Plenty District, Bay of Plenty",
+      "baseRate": 110
+    },
+    {
+      "suburb": "Welcome Bay",
+      "postcode": "3112",
+      "zone": "Local",
+      "deliveryDay": "Daily",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Tauranga, Bay of Plenty",
+      "baseRate": 110
+    },
+    {
+      "suburb": "Athenree",
+      "postcode": "3611",
+      "zone": "Zone 1",
+      "deliveryDay": "Tues/Thurs",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Western Bay of Plenty, Bay of Plenty",
+      "baseRate": 130
+    },
+    {
+      "suburb": "Athenree",
+      "postcode": "3177",
+      "zone": "Zone 1",
+      "deliveryDay": "Tues/Thurs",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Western Bay of Plenty District, Bay of Plenty",
+      "baseRate": 130
+    },
+    {
+      "suburb": "Katikati",
+      "postcode": "3129",
+      "zone": "Zone 1",
+      "deliveryDay": "Tues/Thurs",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Western Bay of Plenty District, Bay of Plenty",
+      "baseRate": 130
+    },
+    {
+      "suburb": "Katikati",
+      "postcode": "3166",
+      "zone": "Zone 1",
+      "deliveryDay": "Tues/Thurs",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Western Bay of Plenty District, Bay of Plenty",
+      "baseRate": 130
+    },
+    {
+      "suburb": "Katikati",
+      "postcode": "3178",
+      "zone": "Zone 1",
+      "deliveryDay": "Tues/Thurs",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Western Bay of Plenty District, Bay of Plenty",
+      "baseRate": 130
+    },
+    {
+      "suburb": "Waihi Beach",
+      "postcode": "3611",
+      "zone": "Zone 1",
+      "deliveryDay": "Tues/Thurs",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Western Bay of Plenty District, Bay of Plenty",
+      "baseRate": 130
+    },
+    {
+      "suburb": "Waihi Beach",
+      "postcode": "3642",
+      "zone": "Zone 1",
+      "deliveryDay": "Tues/Thurs",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Western Bay of Plenty District, Bay of Plenty",
+      "baseRate": 130
+    },
+    {
+      "suburb": "Waihi",
+      "postcode": "3610",
+      "zone": "Zone 1",
+      "deliveryDay": "Tues/Thurs",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Hauraki District, Waikato",
+      "baseRate": "Quote"
+    },
+    {
+      "suburb": "Waihi",
+      "postcode": "3641",
+      "zone": "Zone 1",
+      "deliveryDay": "Tues/Thurs",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Hauraki District, Waikato",
+      "baseRate": "Quote"
+    },
+    {
+      "suburb": "Waihi",
+      "postcode": "3681",
+      "zone": "Zone 1",
+      "deliveryDay": "Tues/Thurs",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Hauraki District, Waikato",
+      "baseRate": "Quote"
+    },
+    {
+      "suburb": "Waihi",
+      "postcode": "3682",
+      "zone": "Quote",
+      "deliveryDay": "",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Hauraki District, Waikato",
+      "baseRate": "Quote"
+    },
+    {
+      "suburb": "Awakaponga",
+      "postcode": "3194",
+      "zone": "Request A Quote",
+      "deliveryDay": "",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Western Bay of Plenty District, Bay of Plenty",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Coastlands",
+      "postcode": "3120",
+      "zone": "Request A Quote",
+      "deliveryDay": "",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Whakatane, Bay of Plenty",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Edgecumbe",
+      "postcode": "3120",
+      "zone": "Request A Quote",
+      "deliveryDay": "",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Whakatane, Bay of Plenty",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Edgecumbe",
+      "postcode": "3160",
+      "zone": "Request A Quote",
+      "deliveryDay": "",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Whakatane District, Bay of Plenty",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Edgecumbe",
+      "postcode": "3193",
+      "zone": "Request A Quote",
+      "deliveryDay": "",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Whakatane District, Bay of Plenty",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Fairy Springs",
+      "postcode": "3015",
+      "zone": "Request A Quote",
+      "deliveryDay": "",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Rotorua, Bay of Plenty",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Fordlands",
+      "postcode": "3015",
+      "zone": "Request A Quote",
+      "deliveryDay": "",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Rotorua, Bay of Plenty",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Glenholme",
+      "postcode": "3010",
+      "zone": "Request A Quote",
+      "deliveryDay": "",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Rotorua, Bay of Plenty",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Glenholme",
+      "postcode": "3044",
+      "zone": "Request A Quote",
+      "deliveryDay": "",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Rotorua District, Bay of Plenty",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Guthrie",
+      "postcode": "3077",
+      "zone": "Request A Quote",
+      "deliveryDay": "",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Rotorua District, Bay of Plenty",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Hillcrest",
+      "postcode": "3015",
+      "zone": "Request A Quote",
+      "deliveryDay": "",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Rotorua, Bay of Plenty",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Kawaha Point",
+      "postcode": "3010",
+      "zone": "Request A Quote",
+      "deliveryDay": "",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Rotorua, Bay of Plenty",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Kawerau",
+      "postcode": "3169",
+      "zone": "Request A Quote",
+      "deliveryDay": "",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Kawerau District, Bay of Plenty",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Kawerau",
+      "postcode": "3192",
+      "zone": "Request A Quote",
+      "deliveryDay": "",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Kawerau District, Bay of Plenty",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Kawerau",
+      "postcode": "3127",
+      "zone": "Request A Quote",
+      "deliveryDay": "",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Kawerau District, Bay of Plenty",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Koutu",
+      "postcode": "3010",
+      "zone": "Request A Quote",
+      "deliveryDay": "",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Rotorua, Bay of Plenty",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Koutu",
+      "postcode": "3046",
+      "zone": "Request A Quote",
+      "deliveryDay": "",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Rotorua District, Bay of Plenty",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Lynmore",
+      "postcode": "3010",
+      "zone": "Request A Quote",
+      "deliveryDay": "",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Rotorua, Bay of Plenty",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Mamaku",
+      "postcode": "3020",
+      "zone": "Request A Quote",
+      "deliveryDay": "",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Rotorua District, Bay of Plenty",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Mamaku",
+      "postcode": "3049",
+      "zone": "Request A Quote",
+      "deliveryDay": "",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Rotorua District, Bay of Plenty",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Mangakakahi",
+      "postcode": "3015",
+      "zone": "Request A Quote",
+      "deliveryDay": "",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Rotorua, Bay of Plenty",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Mangakakahi",
+      "postcode": "3047",
+      "zone": "Request A Quote",
+      "deliveryDay": "",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Rotorua District, Bay of Plenty",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Maraetotara",
+      "postcode": "3120",
+      "zone": "Request A Quote",
+      "deliveryDay": "",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Whakatane, Bay of Plenty",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Matata",
+      "postcode": "3168",
+      "zone": "Request A Quote",
+      "deliveryDay": "",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Whakatane District, Bay of Plenty",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Murupara",
+      "postcode": "3025",
+      "zone": "Request A Quote",
+      "deliveryDay": "",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Whakatane District, Bay of Plenty",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Murupara",
+      "postcode": "3062",
+      "zone": "Request A Quote",
+      "deliveryDay": "",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Whakatane District, Bay of Plenty",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Ngapuna",
+      "postcode": "3010",
+      "zone": "Request A Quote",
+      "deliveryDay": "",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Rotorua, Bay of Plenty",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Ngapuna",
+      "postcode": "3040",
+      "zone": "Request A Quote",
+      "deliveryDay": "",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Rotorua District, Bay of Plenty",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Ngapuna",
+      "postcode": "3045",
+      "zone": "Request A Quote",
+      "deliveryDay": "",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Rotorua District, Bay of Plenty",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Ngawaro",
+      "postcode": "3188",
+      "zone": "Request A Quote",
+      "deliveryDay": "",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Western Bay of Plenty District, Bay of Plenty",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Ngongotaha",
+      "postcode": "3010",
+      "zone": "Request A Quote",
+      "deliveryDay": "",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Rotorua, Bay of Plenty",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Ngongotaha",
+      "postcode": "3041",
+      "zone": "Request A Quote",
+      "deliveryDay": "",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Rotorua District, Bay of Plenty",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Ngongotaha Valley",
+      "postcode": "3015",
+      "zone": "Request A Quote",
+      "deliveryDay": "",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Rotorua, Bay of Plenty",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Ohinemutu",
+      "postcode": "3010",
+      "zone": "Request A Quote",
+      "deliveryDay": "",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Rotorua District, Bay of Plenty",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Ohinepanea",
+      "postcode": "3186",
+      "zone": "Request A Quote",
+      "deliveryDay": "",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Western Bay of Plenty District, Bay of Plenty",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Ohope",
+      "postcode": "3121",
+      "zone": "Request A Quote",
+      "deliveryDay": "",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Whakatane, Bay of Plenty",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Ohope Beach",
+      "postcode": "3121",
+      "zone": "Request A Quote",
+      "deliveryDay": "",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Whakatane District, Bay of Plenty",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Ohope Beach",
+      "postcode": "3161",
+      "zone": "Request A Quote",
+      "deliveryDay": "",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Whakatane District, Bay of Plenty",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Opotiki",
+      "postcode": "3122",
+      "zone": "Request A Quote",
+      "deliveryDay": "",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Opotiki District, Bay of Plenty",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Opotiki",
+      "postcode": "3162",
+      "zone": "Request A Quote",
+      "deliveryDay": "",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Opotiki District, Bay of Plenty",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Otangihaku",
+      "postcode": "3191",
+      "zone": "Request A Quote",
+      "deliveryDay": "",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Whakatane District, Bay of Plenty",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Otara",
+      "postcode": "2023",
+      "zone": "Request A Quote",
+      "deliveryDay": "",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Opotiki, Bay of Plenty",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Owhata",
+      "postcode": "3010",
+      "zone": "Request A Quote",
+      "deliveryDay": "",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Rotorua, Bay of Plenty",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Owhata",
+      "postcode": "3042",
+      "zone": "Request A Quote",
+      "deliveryDay": "",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Rotorua District, Bay of Plenty",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Poroporo",
+      "postcode": "3120",
+      "zone": "Request A Quote",
+      "deliveryDay": "",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Whakatane District, Bay of Plenty",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Poroporo",
+      "postcode": "3159",
+      "zone": "Request A Quote",
+      "deliveryDay": "",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Whakatane District, Bay of Plenty",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Pukehangi",
+      "postcode": "3015",
+      "zone": "Request A Quote",
+      "deliveryDay": "",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Rotorua, Bay of Plenty",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Punaroma",
+      "postcode": "3076",
+      "zone": "Request A Quote",
+      "deliveryDay": "",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Rotorua District, Bay of Plenty",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Rotorua",
+      "postcode": "3010",
+      "zone": "Request A Quote",
+      "deliveryDay": "",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Rotorua, Bay of Plenty",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Rotorua",
+      "postcode": "3015",
+      "zone": "Request A Quote",
+      "deliveryDay": "",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Rotorua, Bay of Plenty",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Ruatahuna",
+      "postcode": "3079",
+      "zone": "Request A Quote",
+      "deliveryDay": "",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Whakatane District, Bay of Plenty",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Selwyn Heights",
+      "postcode": "3015",
+      "zone": "Request A Quote",
+      "deliveryDay": "",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Rotorua, Bay of Plenty",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Springfield",
+      "postcode": "3015",
+      "zone": "Request A Quote",
+      "deliveryDay": "",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Rotorua, Bay of Plenty",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Sunnybrook",
+      "postcode": "3015",
+      "zone": "Request A Quote",
+      "deliveryDay": "",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Rotorua District, Bay of Plenty",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Taneatua",
+      "postcode": "3123",
+      "zone": "Request A Quote",
+      "deliveryDay": "",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Whakatane District, Bay of Plenty",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Taneatua",
+      "postcode": "3163",
+      "zone": "Request A Quote",
+      "deliveryDay": "",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Whakatane District, Bay of Plenty",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Te Teko",
+      "postcode": "3167",
+      "zone": "Request A Quote",
+      "deliveryDay": "",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Whakatane District, Bay of Plenty",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Tihiotonga",
+      "postcode": "3048",
+      "zone": "Request A Quote",
+      "deliveryDay": "",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Rotorua District, Bay of Plenty",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Tihoitonga",
+      "postcode": "3015",
+      "zone": "Request A Quote",
+      "deliveryDay": "",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Rotorua, Bay of Plenty",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Tikitere",
+      "postcode": "3074",
+      "zone": "Request A Quote",
+      "deliveryDay": "",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Rotorua District, Bay of Plenty",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Tirohanga",
+      "postcode": "3122",
+      "zone": "Request A Quote",
+      "deliveryDay": "",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Opotiki, Bay of Plenty",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Toatoa",
+      "postcode": "3197",
+      "zone": "Request A Quote",
+      "deliveryDay": "",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Opotiki District, Bay of Plenty",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Victoria",
+      "postcode": "3010",
+      "zone": "Request A Quote",
+      "deliveryDay": "",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Rotorua, Bay of Plenty",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Waimana",
+      "postcode": "3198",
+      "zone": "Request A Quote",
+      "deliveryDay": "",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Opotiki District, Bay of Plenty",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Waimana",
+      "postcode": "3164",
+      "zone": "Request A Quote",
+      "deliveryDay": "",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Whakatane District, Bay of Plenty",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Waimana",
+      "postcode": "3196",
+      "zone": "Request A Quote",
+      "deliveryDay": "",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Whakatane District, Bay of Plenty",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Waiotahi",
+      "postcode": "3122",
+      "zone": "Request A Quote",
+      "deliveryDay": "",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Opotiki, Bay of Plenty",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "West Brook",
+      "postcode": "3015",
+      "zone": "Request A Quote",
+      "deliveryDay": "",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Rotorua, Bay of Plenty",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Western Heights",
+      "postcode": "3015",
+      "zone": "Request A Quote",
+      "deliveryDay": "",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Rotorua, Bay of Plenty",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Whakamarama",
+      "postcode": "3176",
+      "zone": "Request A Quote",
+      "deliveryDay": "",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Western Bay of Plenty District, Bay of Plenty",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Whakarewarewa",
+      "postcode": "3010",
+      "zone": "Request A Quote",
+      "deliveryDay": "",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Rotorua, Bay of Plenty",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Whakarewarewa",
+      "postcode": "3043",
+      "zone": "Request A Quote",
+      "deliveryDay": "",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Rotorua District, Bay of Plenty",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Whakatane",
+      "postcode": "3120",
+      "zone": "Request A Quote",
+      "deliveryDay": "",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Whakatane, Bay of Plenty",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Whakatane",
+      "postcode": "3158",
+      "zone": "Request A Quote",
+      "deliveryDay": "",
+      "carrier": "NZ Diamond",
+      "fulfillmentStore": "NZ Warehouse",
+      "region": "Whakatane District, Bay of Plenty",
+      "baseRate": "Request A Quote"
+    },
+    {
+      "suburb": "Avalon Industrial",
+      "postcode": "3200",
+      "zone": "Local",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Hamilton, Waikato",
+      "baseRate": 90
+    },
+    {
+      "suburb": "Bader",
+      "postcode": "3206",
+      "zone": "Local",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Hamilton, Waikato",
+      "baseRate": 90
+    },
+    {
+      "suburb": "Beerescourt",
+      "postcode": "3200",
+      "zone": "Local",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Hamilton, Waikato",
+      "baseRate": 90
+    },
+    {
+      "suburb": "Beerescourt",
+      "postcode": "3210",
+      "zone": "Local",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Waikato, Waikato",
+      "baseRate": 90
+    },
+    {
+      "suburb": "Chartwell",
+      "postcode": "3210",
+      "zone": "Local",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Waikato, Waikato",
+      "baseRate": 90
+    },
+    {
+      "suburb": "Chedworth",
+      "postcode": "3210",
+      "zone": "Local",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Waikato, Waikato",
+      "baseRate": 90
+    },
+    {
+      "suburb": "Claudelands",
+      "postcode": "3214",
+      "zone": "Local",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Hamilton, Waikato",
+      "baseRate": 90
+    },
+    {
+      "suburb": "Claudelands",
+      "postcode": "3248",
+      "zone": "Local",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Hamilton City, Waikato",
+      "baseRate": 90
+    },
+    {
+      "suburb": "Claudelands",
+      "postcode": "3252",
+      "zone": "Local",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Hamilton City, Waikato",
+      "baseRate": 90
+    },
+    {
+      "suburb": "Claudelands",
+      "postcode": "3256",
+      "zone": "Local",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Hamilton City, Waikato",
+      "baseRate": 90
+    },
+    {
+      "suburb": "Claudelands",
+      "postcode": "3257",
+      "zone": "Local",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Hamilton City, Waikato",
+      "baseRate": 90
+    },
+    {
+      "suburb": "Claudelands",
+      "postcode": "3210",
+      "zone": "Local",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Waikato District, Waikato",
+      "baseRate": 90
+    },
+    {
+      "suburb": "Deanwell",
+      "postcode": "3206",
+      "zone": "Local",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Hamilton, Waikato",
+      "baseRate": 90
+    },
+    {
+      "suburb": "Dinsdale",
+      "postcode": "3204",
+      "zone": "Local",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Hamilton, Waikato",
+      "baseRate": 90
+    },
+    {
+      "suburb": "Enderley",
+      "postcode": "3214",
+      "zone": "Local",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Hamilton, Waikato",
+      "baseRate": 90
+    },
+    {
+      "suburb": "Fairfield",
+      "postcode": "3214",
+      "zone": "Local",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Hamilton, Waikato",
+      "baseRate": 90
+    },
+    {
+      "suburb": "Fairview Downs",
+      "postcode": "3214",
+      "zone": "Local",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Hamilton, Waikato",
+      "baseRate": 90
+    },
+    {
+      "suburb": "Fitzroy",
+      "postcode": "3206",
+      "zone": "Local",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Hamilton, Waikato",
+      "baseRate": 90
+    },
+    {
+      "suburb": "Flagstaff",
+      "postcode": "3210",
+      "zone": "Local",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Waikato, Waikato",
+      "baseRate": 90
+    },
+    {
+      "suburb": "Forest Lake",
+      "postcode": "3200",
+      "zone": "Local",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Hamilton, Waikato",
+      "baseRate": 90
+    },
+    {
+      "suburb": "Frankton",
+      "postcode": "3204",
+      "zone": "Local",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Hamilton, Waikato",
+      "baseRate": 90
+    },
+    {
+      "suburb": "Frankton Junction",
+      "postcode": "3204",
+      "zone": "Local",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Hamilton City, Waikato",
+      "baseRate": 90
+    },
+    {
+      "suburb": "Frankton Junction",
+      "postcode": "3243",
+      "zone": "Local",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Hamilton City, Waikato",
+      "baseRate": 90
+    },
+    {
+      "suburb": "Glenview",
+      "postcode": "3206",
+      "zone": "Local",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Hamilton, Waikato",
+      "baseRate": 90
+    },
+    {
+      "suburb": "Grandview Heights",
+      "postcode": "3200",
+      "zone": "Local",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Hamilton, Waikato",
+      "baseRate": 90
+    },
+    {
+      "suburb": "Hamilton",
+      "postcode": "3214",
+      "zone": "Local",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Hamilton City, Waikato",
+      "baseRate": 90
+    },
+    {
+      "suburb": "Hamilton",
+      "postcode": "3244",
+      "zone": "Local",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Hamilton City, Waikato",
+      "baseRate": 90
+    },
+    {
+      "suburb": "Hamilton",
+      "postcode": "3287",
+      "zone": "Local",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Waikato District, Waikato",
+      "baseRate": 90
+    },
+    {
+      "suburb": "Hamilton Central",
+      "postcode": "3204",
+      "zone": "Local",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Hamilton, Waikato",
+      "baseRate": 90
+    },
+    {
+      "suburb": "Hamilton East",
+      "postcode": "3216",
+      "zone": "Local",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Hamilton City, Waikato",
+      "baseRate": 90
+    },
+    {
+      "suburb": "Hamilton East",
+      "postcode": "3247",
+      "zone": "Local",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Hamilton City, Waikato",
+      "baseRate": 90
+    },
+    {
+      "suburb": "Hamilton East",
+      "postcode": "3251",
+      "zone": "Local",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Hamilton City, Waikato",
+      "baseRate": 90
+    },
+    {
+      "suburb": "Hamilton East",
+      "postcode": "3255",
+      "zone": "Local",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Hamilton City, Waikato",
+      "baseRate": 90
+    },
+    {
+      "suburb": "Hamilton Lake",
+      "postcode": "3204",
+      "zone": "Local",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Hamilton, Waikato",
+      "baseRate": 90
+    },
+    {
+      "suburb": "Hamilton West",
+      "postcode": "3240",
+      "zone": "Local",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Hamilton City, Waikato",
+      "baseRate": 90
+    },
+    {
+      "suburb": "Hamilton West",
+      "postcode": "3242",
+      "zone": "Local",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Hamilton City, Waikato",
+      "baseRate": 90
+    },
+    {
+      "suburb": "Harrowfield",
+      "postcode": "3210",
+      "zone": "Local",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Waikato, Waikato",
+      "baseRate": 90
+    },
+    {
+      "suburb": "Hillcrest",
+      "postcode": "3214",
+      "zone": "Local",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Hamilton, Waikato",
+      "baseRate": 90
+    },
+    {
+      "suburb": "Hillcrest",
+      "postcode": "3216",
+      "zone": "Local",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Hamilton, Waikato",
+      "baseRate": 90
+    },
+    {
+      "suburb": "Huntingdon",
+      "postcode": "3210",
+      "zone": "Local",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Waikato, Waikato",
+      "baseRate": 90
+    },
+    {
+      "suburb": "Maeroa",
+      "postcode": "3200",
+      "zone": "Local",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Hamilton, Waikato",
+      "baseRate": 90
+    },
+    {
+      "suburb": "Melville",
+      "postcode": "3206",
+      "zone": "Local",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Hamilton City, Waikato",
+      "baseRate": 90
+    },
+    {
+      "suburb": "Melville",
+      "postcode": "3245",
+      "zone": "Local",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Hamilton City, Waikato",
+      "baseRate": 90
+    },
+    {
+      "suburb": "Melville",
+      "postcode": "3246",
+      "zone": "Local",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Hamilton City, Waikato",
+      "baseRate": 90
+    },
+    {
+      "suburb": "Nawton",
+      "postcode": "3200",
+      "zone": "Local",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Hamilton, Waikato",
+      "baseRate": 90
+    },
+    {
+      "suburb": "Newstead",
+      "postcode": "3253",
+      "zone": "Local",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Hamilton City, Waikato",
+      "baseRate": 90
+    },
+    {
+      "suburb": "Newstead",
+      "postcode": "3254",
+      "zone": "Local",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Hamilton City, Waikato",
+      "baseRate": 90
+    },
+    {
+      "suburb": "North Huntingdon",
+      "postcode": "3210",
+      "zone": "Local",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Waikato, Waikato",
+      "baseRate": 90
+    },
+    {
+      "suburb": "Northgate Industrial",
+      "postcode": "3200",
+      "zone": "Local",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Hamilton, Waikato",
+      "baseRate": 90
+    },
+    {
+      "suburb": "Puketaha",
+      "postcode": "3210",
+      "zone": "Local",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Waikato, Waikato",
+      "baseRate": 90
+    },
+    {
+      "suburb": "Pukete",
+      "postcode": "3200",
+      "zone": "Local",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Hamilton, Waikato",
+      "baseRate": 90
+    },
+    {
+      "suburb": "Pukete Industrial",
+      "postcode": "3200",
+      "zone": "Local",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Hamilton, Waikato",
+      "baseRate": 90
+    },
+    {
+      "suburb": "Queenwood",
+      "postcode": "3210",
+      "zone": "Local",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Waikato, Waikato",
+      "baseRate": 90
+    },
+    {
+      "suburb": "Riverlea",
+      "postcode": "3216",
+      "zone": "Local",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Hamilton, Waikato",
+      "baseRate": 90
+    },
+    {
+      "suburb": "Rototuna",
+      "postcode": "3210",
+      "zone": "Local",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Waikato, Waikato",
+      "baseRate": 90
+    },
+    {
+      "suburb": "Rototuna North",
+      "postcode": "3210",
+      "zone": "Local",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Waikato, Waikato",
+      "baseRate": 90
+    },
+    {
+      "suburb": "Silverdale",
+      "postcode": "3216",
+      "zone": "Local",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Hamilton, Waikato",
+      "baseRate": 90
+    },
+    {
+      "suburb": "St Andrews",
+      "postcode": "3200",
+      "zone": "Local",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Hamilton, Waikato",
+      "baseRate": 90
+    },
+    {
+      "suburb": "St Andrews",
+      "postcode": "3210",
+      "zone": "Local",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Waikato, Waikato",
+      "baseRate": 90
+    },
+    {
+      "suburb": "Tamahere",
+      "postcode": "3206",
+      "zone": "Local",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Hamilton, Waikato",
+      "baseRate": 90
+    },
+    {
+      "suburb": "Tamahere",
+      "postcode": "3216",
+      "zone": "Local",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Hamilton, Waikato",
+      "baseRate": 90
+    },
+    {
+      "suburb": "Te Rapa",
+      "postcode": "3200",
+      "zone": "Local",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Hamilton City, Waikato",
+      "baseRate": 90
+    },
+    {
+      "suburb": "Te Rapa",
+      "postcode": "3241",
+      "zone": "Local",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Hamilton City, Waikato",
+      "baseRate": 90
+    },
+    {
+      "suburb": "Te Rapa",
+      "postcode": "3249",
+      "zone": "Local",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Hamilton City, Waikato",
+      "baseRate": 90
+    },
+    {
+      "suburb": "Te Rapa Park",
+      "postcode": "3200",
+      "zone": "Local",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Hamilton, Waikato",
+      "baseRate": 90
+    },
+    {
+      "suburb": "Te Rapa Straight",
+      "postcode": "3200",
+      "zone": "Local",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Hamilton, Waikato",
+      "baseRate": 90
+    },
+    {
+      "suburb": "Temple View",
+      "postcode": "3218",
+      "zone": "Local",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Hamilton City, Waikato",
+      "baseRate": 90
+    },
+    {
+      "suburb": "Temple View",
+      "postcode": "3290",
+      "zone": "Local",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Hamilton City, Waikato",
+      "baseRate": 90
+    },
+    {
+      "suburb": "Waikato Hospital",
+      "postcode": "3204",
+      "zone": "Local",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Hamilton, Waikato",
+      "baseRate": 90
+    },
+    {
+      "suburb": "Western Heights",
+      "postcode": "3200",
+      "zone": "Local",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Hamilton, Waikato",
+      "baseRate": 90
+    },
+    {
+      "suburb": "Whitiora",
+      "postcode": "3200",
+      "zone": "Local",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Hamilton, Waikato",
+      "baseRate": 90
+    },
+    {
+      "suburb": "Tamahere",
+      "postcode": "3283",
+      "zone": "Zone 1",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Waikato District, Waikato",
+      "baseRate": 120
+    },
+    {
+      "suburb": "Eureka",
+      "postcode": "3284",
+      "zone": "Zone 1",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Waikato District, Waikato",
+      "baseRate": 125
+    },
+    {
+      "suburb": "Ohaupo",
+      "postcode": "3803",
+      "zone": "Zone 1",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Waipa District, Waikato",
+      "baseRate": 125
+    },
+    {
+      "suburb": "Ohaupo",
+      "postcode": "3881",
+      "zone": "Zone 1",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Waipa District, Waikato",
+      "baseRate": 125
+    },
+    {
+      "suburb": "Rukuhia",
+      "postcode": "3282",
+      "zone": "Zone 1",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Waipa District, Waikato",
+      "baseRate": 125
+    },
+    {
+      "suburb": "Rukuhia",
+      "postcode": "3882",
+      "zone": "Zone 1",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Waipa District, Waikato",
+      "baseRate": 125
+    },
+    {
+      "suburb": "Te Kowhai",
+      "postcode": "3263",
+      "zone": "Zone 1",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Waikato District, Waikato",
+      "baseRate": 125
+    },
+    {
+      "suburb": "Te Kowhai",
+      "postcode": "3288",
+      "zone": "Zone 1",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Waikato District, Waikato",
+      "baseRate": 125
+    },
+    {
+      "suburb": "Cambridge",
+      "postcode": "3434",
+      "zone": "Zone 2",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Waipa, Waikato",
+      "baseRate": 130
+    },
+    {
+      "suburb": "Tamahere",
+      "postcode": "3434",
+      "zone": "Zone 2",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Waipa, Waikato",
+      "baseRate": 130
+    },
+    {
+      "suburb": "Aramiro",
+      "postcode": "3285",
+      "zone": "Zone 2",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Waikato District, Waikato",
+      "baseRate": 135
+    },
+    {
+      "suburb": "Gordonton",
+      "postcode": "3264",
+      "zone": "Zone 2",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Waikato District, Waikato",
+      "baseRate": 135
+    },
+    {
+      "suburb": "Gordonton",
+      "postcode": "3281",
+      "zone": "Zone 2",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Waikato District, Waikato",
+      "baseRate": 135
+    },
+    {
+      "suburb": "Hinuera",
+      "postcode": "3472",
+      "zone": "Zone 2",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Matamata-Piako District, Waikato",
+      "baseRate": 135
+    },
+    {
+      "suburb": "Huntly",
+      "postcode": "3700",
+      "zone": "Zone 2",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Waikato, Waikato",
+      "baseRate": 135
+    },
+    {
+      "suburb": "Kihikihi",
+      "postcode": "3800",
+      "zone": "Zone 2",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Waipa, Waikato",
+      "baseRate": 135
+    },
+    {
+      "suburb": "Kihikihi",
+      "postcode": "3841",
+      "zone": "Zone 2",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Waipa District, Waikato",
+      "baseRate": 135
+    },
+    {
+      "suburb": "Kihikihi",
+      "postcode": "3879",
+      "zone": "Zone 2",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Waipa District, Waikato",
+      "baseRate": 135
+    },
+    {
+      "suburb": "Matangi",
+      "postcode": "3260",
+      "zone": "Zone 2",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Waikato District, Waikato",
+      "baseRate": 135
+    },
+    {
+      "suburb": "Morrinsville",
+      "postcode": "3300",
+      "zone": "Zone 2",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Matamata-Piako District, Waikato",
+      "baseRate": 135
+    },
+    {
+      "suburb": "Morrinsville",
+      "postcode": "3340",
+      "zone": "Zone 2",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Matamata-Piako District, Waikato",
+      "baseRate": 135
+    },
+    {
+      "suburb": "Morrinsville",
+      "postcode": "3375",
+      "zone": "Zone 2",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Waikato District, Waikato",
+      "baseRate": 135
+    },
+    {
+      "suburb": "Ngaroto",
+      "postcode": "3883",
+      "zone": "Zone 2",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Waipa District, Waikato",
+      "baseRate": 135
+    },
+    {
+      "suburb": "Ngaruawahia",
+      "postcode": "3720",
+      "zone": "Zone 2",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Waikato District, Waikato",
+      "baseRate": 135
+    },
+    {
+      "suburb": "Ngaruawahia",
+      "postcode": "3742",
+      "zone": "Zone 2",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Waikato District, Waikato",
+      "baseRate": 135
+    },
+    {
+      "suburb": "Pirongia",
+      "postcode": "3802",
+      "zone": "Zone 2",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Waipa District, Waikato",
+      "baseRate": 135
+    },
+    {
+      "suburb": "Pirongia",
+      "postcode": "3876",
+      "zone": "Zone 2",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Waipa District, Waikato",
+      "baseRate": 135
+    },
+    {
+      "suburb": "Pukeatua",
+      "postcode": "3494",
+      "zone": "Zone 2",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Waipa District, Waikato",
+      "baseRate": 135
+    },
+    {
+      "suburb": "Pukeatua",
+      "postcode": "3880",
+      "zone": "Zone 2",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Waipa District, Waikato",
+      "baseRate": 135
+    },
+    {
+      "suburb": "Starrtown",
+      "postcode": "3700",
+      "zone": "Zone 2",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Waikato District, Waikato",
+      "baseRate": 135
+    },
+    {
+      "suburb": "Starrtown",
+      "postcode": "3740",
+      "zone": "Zone 2",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Waikato District, Waikato",
+      "baseRate": 135
+    },
+    {
+      "suburb": "Te Awamutu",
+      "postcode": "3800",
+      "zone": "Zone 2",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Waipa District, Waikato",
+      "baseRate": 135
+    },
+    {
+      "suburb": "Te Awamutu",
+      "postcode": "3840",
+      "zone": "Zone 2",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Waipa District, Waikato",
+      "baseRate": 135
+    },
+    {
+      "suburb": "Te Miro",
+      "postcode": "3371",
+      "zone": "Zone 2",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Matamata-Piako District, Waikato",
+      "baseRate": 135
+    },
+    {
+      "suburb": "Te Miro",
+      "postcode": "3496",
+      "zone": "Zone 2",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Matamata-Piako District, Waikato",
+      "baseRate": 135
+    },
+    {
+      "suburb": "Whatawhata",
+      "postcode": "3289",
+      "zone": "Zone 2",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Waikato District, Waikato",
+      "baseRate": 135
+    },
+    {
+      "suburb": "Whatawhata",
+      "postcode": "3261",
+      "zone": "Zone 2",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Waikato District, Waikato",
+      "baseRate": 135
+    },
+    {
+      "suburb": "Taupiri",
+      "postcode": "3721",
+      "zone": "Regional",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Waikato District, Waikato",
+      "baseRate": 175
+    },
+    {
+      "suburb": "Matamata",
+      "postcode": "3400",
+      "zone": "Regional",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Matamata-Piako District, Waikato",
+      "baseRate": 180
+    },
+    {
+      "suburb": "Matamata",
+      "postcode": "3440",
+      "zone": "Regional",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Matamata-Piako District, Waikato",
+      "baseRate": 180
+    },
+    {
+      "suburb": "Tahuna",
+      "postcode": "3373",
+      "zone": "Regional",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Matamata-Piako District, Waikato",
+      "baseRate": 180
+    },
+    {
+      "suburb": "Te Kuiti",
+      "postcode": "3910",
+      "zone": "Regional",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Waitomo District, Waikato",
+      "baseRate": 180
+    },
+    {
+      "suburb": "Te Kuiti",
+      "postcode": "3941",
+      "zone": "Regional",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Waitomo District, Waikato",
+      "baseRate": 180
+    },
+    {
+      "suburb": "Tirau",
+      "postcode": "3484",
+      "zone": "Regional",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Matamata-Piako District, Waikato",
+      "baseRate": 180
+    },
+    {
+      "suburb": "Raglan",
+      "postcode": "3225",
+      "zone": "Regional",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Waikato District, Waikato",
+      "baseRate": 260
+    },
+    {
+      "suburb": "Raglan",
+      "postcode": "3265",
+      "zone": "Regional",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Waikato District, Waikato",
+      "baseRate": 260
+    },
+    {
+      "suburb": "Raglan",
+      "postcode": "3297",
+      "zone": "Regional",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Waikato District, Waikato",
+      "baseRate": 260
+    },
+    {
+      "suburb": "Te Kauwhata",
+      "postcode": "3710",
+      "zone": "Regional",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Waikato District, Waikato",
+      "baseRate": 260
+    },
+    {
+      "suburb": "Te Kauwhata",
+      "postcode": "3741",
+      "zone": "Regional",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Waikato District, Waikato",
+      "baseRate": 260
+    },
+    {
+      "suburb": "Piopio",
+      "postcode": "3912",
+      "zone": "Regional",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Waitomo District, Waikato",
+      "baseRate": 290
+    },
+    {
+      "suburb": "Piopio",
+      "postcode": "3942",
+      "zone": "Regional",
+      "deliveryDay": "",
+      "carrier": "NZ Swift",
+      "fulfillmentStore": "NZ Hamilton",
+      "region": "Waitomo District, Waikato",
+      "baseRate": 290
+    }
+  ]
+}
