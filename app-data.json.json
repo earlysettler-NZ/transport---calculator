@@ -2,13 +2,13 @@
   "diamondRates": [
     {
       "area": "Local",
-      "rate1": 110,
-      "additional": 25
+      "rate1": 115,
+      "additional": 30
     },
     {
-      "area": "Zone 1",
-      "rate1": 130,
-      "additional": 25
+      "area": "Zone A",
+      "rate1": 129,
+      "additional": 30
     }
   ],
   "addons": [
@@ -18,7 +18,7 @@
     },
     {
       "name": "Assembly",
-      "rate": 35
+      "rate": 30
     },
     {
       "name": "Access Limitations",
