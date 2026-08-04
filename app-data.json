@@ -2,13 +2,48 @@
   "diamondRates": [
     {
       "area": "Local",
-      "rate1": 110,
-      "additional": 25
+      "rate1": 115,
+      "additional": 30
     },
     {
-      "area": "Zone 1",
-      "rate1": 130,
-      "additional": 25
+      "area": "Zone A",
+      "rate1": 129,
+      "additional": 30
+    },
+    {
+      "area": "Zone B",
+      "rate1": 149,
+      "additional": 30
+    },
+    {
+      "area": "Zone C",
+      "rate1": 169,
+      "additional": 30
+    },
+    {
+      "area": "Zone D",
+      "rate1": 199,
+      "additional": 30
+    },
+    {
+      "area": "Zone E",
+      "rate1": 249,
+      "additional": 30
+    },
+    {
+      "area": "Zone F",
+      "rate1": 279,
+      "additional": 30
+    },
+    {
+      "area": "Zone G",
+      "rate1": 299,
+      "additional": 30
+    },
+    {
+      "area": "Zone H",
+      "rate1": 349,
+      "additional": 30
     }
   ],
   "addons": [
@@ -18,7 +53,7 @@
     },
     {
       "name": "Assembly",
-      "rate": 35
+      "rate": 30
     },
     {
       "name": "Access Limitations",
